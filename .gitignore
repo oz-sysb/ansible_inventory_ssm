@@ -1,0 +1,17 @@
+# php
+/vendor
+.php_cs.cache
+
+# vscode setting
+.vscode
+
+# win
+Thumbs.db
+
+# mac
+.DS_Store
+
+# other
+*.swp
+*.swo
+tags
